@@ -1,0 +1,11 @@
+# ASP.NET Core Identity + EF Core
+dotnet add package Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+# SQL Server + EF Core
+dotnet add package Microsoft.EntityFrameworkCore.SqlServer
+dotnet add package Microsoft.EntityFrameworkCore.Tools
+dotnet add package Microsoft.EntityFrameworkCore.Design
+
+
+# JWT Authentication
+dotnet add package Microsoft.AspNetCore.Authentication.JwtBearer
